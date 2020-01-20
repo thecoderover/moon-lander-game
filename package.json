@@ -1,0 +1,15 @@
+{
+    "name": "lander",
+    "version": "0.1.0",
+    "author": "thecoderover",
+    "license": "MIT",
+    "description": "Moon lander",
+    "main": "app.js",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
