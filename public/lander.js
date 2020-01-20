@@ -10,7 +10,7 @@
 // Default physical constants for the game
 var DEFAULT_MASS = 6000;        // Roughly based on LEM (4000 accent module + dry decent module)
 var DEFAULT_FUEL = 8000;        // Fuel on the decent module
-var DEFAULT_DELTA_FUEL = 8;     // HACK - how much fuel we loose each update when the engines are firing
+var DEFAULT_DELTA_FUEL = 8;     // HACK - how much fuel we loose each update when the engines fire
 var DEFAULT_GRAVITY = 1.62;     // Acceleration of the moon
 var DEFAULT_THRUST = 45000;     // 45000N as per the LEM decent module
 var DEFAULT_ANGLE_LIMIT = 0.1;  // About 6 degrees
